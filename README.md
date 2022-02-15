@@ -53,7 +53,7 @@
   <br/>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CyborBot" alt="cyborbot" /></a> </p>
     <a href="https://github.com/CyborBot/github-readme-stats"><img alt="CyborBot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CyborBot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CyborBot/github-readme-stats"><img alt="CyborBot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborBot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/CyborBot/github-readme-stats"><img alt="CyborBot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborBot&layout=compact&langs_count=10" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
