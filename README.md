@@ -6,14 +6,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Library Management System](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Some New Projects](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🌱 I'm also on the path of Full Stack Developer
+- 🌱 I’m currently learning **React.**
+- 🌱 Very close to get the title of MERN Stack Developer
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Current Nothing to show as Project
+- 👨‍💻 Few Projects to show.
 
 - 📫 How to reach me **abhayrautela213@gmail.com**
 
