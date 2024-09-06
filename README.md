@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on **[Some New Projects](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **React.**
-- 🌱 Very close to get the title of MERN Stack Developer
+- 🌱 I’m currently learning **AI/ML.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -18,8 +17,8 @@
 - 📫 How to reach me **abhayrautela213@gmail.com**
 
 - ⚡ Fun facts
-  -   **I play games and go to the GYM very often.**
-  -   **I have a crush not on a GIRL but on food.**
+  -   **I play games and go to the GYM very frequnetly.**
+  -   **I have a crush on a GIRL but not on food.**
 
 ## 🚀 Languages and Tools:
 
@@ -43,17 +42,17 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/CyborBot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CyborBot's streak" src="https://github-readme-streak-stats.herokuapp.com?user=CyborBot&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://github.com/AbhayRautela213/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CyborBot's streak" src="https://github-readme-streak-stats.herokuapp.com?user=AbhayRautela213&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CyborBot" alt="cyborbot" /></a> </p>
-    <a href="https://github.com/CyborBot/github-readme-stats"><img alt="CyborBot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CyborBot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CyborBot/github-readme-stats"><img alt="CyborBot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborBot&layout=compact&langs_count=10" /></a>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhayRautela213" alt="AbhayRautela213" /></a> </p>
+    <a href="https://github.com/AbhayRautela213/github-readme-stats"><img alt="AbhayRautela213's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhayRautela213&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AbhayRautela213/github-readme-stats"><img alt="AbhayRautela213's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayRautela213&layout=compact&langs_count=10" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/CyborBot/github-readme-activity-graph"><img alt="CyborBot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CyborBot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AbhayRautela213/github-readme-activity-graph"><img alt="Abhay Rautela Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhayRautela213&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
